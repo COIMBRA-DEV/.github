@@ -14,6 +14,6 @@
 
 - 💻 &nbsp; Python | JavaScript | React | C++ | C
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap
-- 🛢 &nbsp; MySQL 
+- 🛢 &nbsp; MySQL | Postgresql 
 - 🔧 &nbsp; Visual Studio Code | Git
 - 🖥 &nbsp; Adobe Photoshop
